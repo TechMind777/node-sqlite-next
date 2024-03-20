@@ -1,0 +1,10 @@
+
+node_modules/
+db/db_sqlite/
+public/uploads/
+
+
+public/nextapp/.next/
+public/nextapp/out/
+public/nextapp/build/
+public/nextapp/node_modules/
